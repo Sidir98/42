@@ -1,0 +1,5 @@
+Credentials cache: API:CA23EC36-29A0-4014-8D99-679352174099
+        Principal: ibouabda@42.FR
+
+  Issued                Expires               Principal
+Jul  2 17:16:43 2018  Jul  9 17:16:43 2018  krbtgt/42.FR@42.FR
